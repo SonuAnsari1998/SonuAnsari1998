@@ -1,6 +1,6 @@
-<!-- Dynamic Animated Header with Particle GIF -->
+<!-- Animated Particle Header -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="60">
   Hi, I'm <span style="color:#1DA1F2">Sonu Ansari</span>!
 </h1>
 
@@ -17,12 +17,12 @@
 
 ### 👨‍💻 About Me
 I am **Sonu Ansari**, an MCA graduate and aspiring Java Full Stack Developer.  
-I specialize in **Spring Boot Microservices** and **ReactJS** to deliver **robust, scalable, and secure web apps**.  
-I enjoy applying modern frameworks, clean code principles, and creating user-centric solutions.
+I specialize in **Spring Boot Microservices** and **ReactJS** to deliver **robust, scalable, and secure web applications**.  
+I enjoy creating user-centric solutions using modern frameworks and clean code principles.
 
 ---
 
-<!-- Tech Stack Animated / Pulse Badges -->
+### 🛠 Tech Stack (Animated / Pulse)
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=spin">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=spin">
@@ -35,7 +35,7 @@ I enjoy applying modern frameworks, clean code principles, and creating user-cen
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects (GIF Cards)
 <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Project 1" title="Project 1"></a>
   <a href="#"><img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200" alt="Project 2" title="Project 2"></a>
@@ -44,14 +44,14 @@ I enjoy applying modern frameworks, clean code principles, and creating user-cen
 
 ---
 
-### 🐍 Contribution Wave + Snake
+### 🐍 Contribution Wave / Snake
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCSPqXEJ5d5DgG0/giphy.gif" width="700" alt="Contribution Wave"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Stats & Streaks (Neon / Glow)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonuAnsari1998&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=FF5733" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuAnsari1998&theme=radical&hide_border=false&background=0d1117&fire=FF5733" height="180">
@@ -59,7 +59,7 @@ I enjoy applying modern frameworks, clean code principles, and creating user-cen
 
 ---
 
-### 🌐 Connect with Me (Hover Glow Effect)
+### 🌐 Connect with Me (Hover Glow)
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"></a>
   <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"></a>
