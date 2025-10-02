@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **C, C++ & Web Projects**  
-- 🌱 Learning **DSA, System Design & Open Source**  
+- 🌱 Learning **Core, Advanace Java, Web Development & Open Source**  
 - 💡 Always curious about new technologies  
 - 👯 Open to collaborate on **Open Source Projects**  
 - ⚡ Fun fact: *I turn ☕ into code faster than you think*  
