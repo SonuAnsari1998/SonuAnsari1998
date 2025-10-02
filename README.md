@@ -74,6 +74,13 @@
 
 ---
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SonuAnsari1998/SonuAnsari1998/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SonuAnsari1998&label=Profile%20Views&color=blue&style=flat" alt="views"/>
 </p>
