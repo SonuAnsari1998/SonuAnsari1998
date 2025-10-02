@@ -12,15 +12,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate contribution grid snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: SonuAnsari1998
           outputs: snake.svg
 
-      - name: Commit and push snake
+      - name: Commit & push snake
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Updated GitHub Snake"
-          add: "snake.svg"
           branch: output
+          message: "Updated snake animation"
+          add: "snake.svg"
