@@ -1,16 +1,16 @@
-<!-- Animated Particle Header -->
+<!-- Particle & Gradient Header -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60">
-  Hi, I'm <span style="color:#1DA1F2">Sonu Ansari</span>!
+  <img src="https://media.giphy.com/media/3o7TKrJiqG8j5sH3Vu/giphy.gif" width="60">
+  Hi, I'm <span style="background: linear-gradient(90deg, #1DA1F2, #FF5733, #00FF00); -webkit-background-clip: text; color: transparent;">Sonu Ansari</span>!
 </h1>
 
 <h3 align="center">
   🚀 Aspiring Java Full Stack Developer | Core & Advanced Java | Spring Boot & Microservices | ReactJS | REST APIs | Oracle | Cloud & DevOps
 </h3>
 
-<!-- Typing Animation with Color Transition -->
+<!-- Typing Animation with Colors & Emoji -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2,FF5733,00FF00&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Clean+Code+%26+Best+Practices;Delivering+Secure+%26+Scalable+Solutions;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2,FF5733,00FF00&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+💻;Clean+Code+%26+Best+Practices✨;Delivering+Secure+%26+Scalable+Solutions🔒;Always+Learning+New+Technologies📚" />
 </p>
 
 ---
@@ -18,11 +18,11 @@
 ### 👨‍💻 About Me
 I am **Sonu Ansari**, an MCA graduate and aspiring Java Full Stack Developer.  
 I specialize in **Spring Boot Microservices** and **ReactJS** to deliver **robust, scalable, and secure web applications**.  
-I enjoy creating user-centric solutions using modern frameworks and clean code principles.
+I love creating user-centric solutions using modern frameworks and clean code principles.
 
 ---
 
-### 🛠 Tech Stack (Animated / Pulse)
+### 🛠 Tech Stack (Animated & Hover Glow)
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=spin">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=spin">
@@ -35,7 +35,7 @@ I enjoy creating user-centric solutions using modern frameworks and clean code p
 
 ---
 
-### 🌟 Featured Projects (Upgraded GIF Cards)
+### 🌟 Featured Projects (Interactive GIF Cards)
 <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/3o6Mbo2sCVJgX8cXl6/giphy.gif" width="200" alt="Project 1" title="Project 1"></a>
   <a href="#"><img src="https://media.giphy.com/media/l4HodBpDmoMA5p9bG/giphy.gif" width="200" alt="Project 2" title="Project 2"></a>
@@ -44,7 +44,7 @@ I enjoy creating user-centric solutions using modern frameworks and clean code p
 
 ---
 
-### 🐍 Contribution Wave / Neon Snake
+### 🐍 Contribution Wave / Neon Snake Trail
 <p align="center">
   <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="700" alt="Neon Snake Trail"/>
 </p>
@@ -59,7 +59,7 @@ I enjoy creating user-centric solutions using modern frameworks and clean code p
 
 ---
 
-### 🌐 Connect with Me (Hover Glow)
+### 🌐 Connect with Me (Hover Glow + Scale)
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"></a>
   <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"></a>
