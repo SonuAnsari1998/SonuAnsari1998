@@ -5,11 +5,11 @@
 </h1>
 
 <h3 align="center">
-  🚀 Developer | 💻 Problem Solver | 🌍 Tech Explorer
+  🎯 Aspiring Java Full Stack Developer | Core & Advanced Java | Spring Boot & Microservices | ReactJS | REST APIs | Oracle | Cloud & DevOps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=700&lines=Passionate+Developer+from+India;Love+to+Code+and+Build+Projects;Always+Learning+New+Tech;Open+Source+Contributor;Turning+Coffee+into+Code+%E2%98%95" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=700&lines=Building+End-to-End+Web+Applications;Passionate+About+Modern+Frameworks+%26+Clean+Code;Delivering+Secure,+Scalable+Digital+Solutions;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -17,25 +17,33 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_2.gif">
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **C, C++ & Web Projects**  
-- 🌱 Learning **Core, Advanace Java, Web Development & Open Source**  
-- 💡 Always curious about new technologies  
-- 👯 Open to collaborate on **Open Source Projects**  
-- ⚡ Fun fact: *I turn ☕ into code faster than you think*  
+I am **Sonu Ansari**, an MCA graduate and an aspiring Java Full Stack Developer with expertise in designing and building end-to-end web applications. My skills span across front-end development, back-end engineering, databases, and DevSecOps tools, enabling me to deliver robust and scalable solutions.
+
+I specialize in **Spring Boot Microservices architecture** for modular, high-performance back-end systems, and **ReactJS** for creating dynamic and responsive user interfaces. I am passionate about applying modern frameworks, clean code principles, and industry best practices to develop secure, scalable, and user-centric applications.
+
+My goal is to work with innovative teams where I can contribute to impactful digital solutions, continuously enhance my technical expertise, and grow as a well-rounded full stack developer.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Technical Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,express,html,css,tailwind,mysql,git,github,linux,vscode&theme=dark" />
+  <b>Front-end:</b> HTML, CSS, JavaScript, Bootstrap, ReactJS, Responsive UI & Layouts<br>
+  <b>Back-end:</b> C, Core & Advanced Java, Spring, Spring Boot & Microservices<br>
+  <b>Database:</b> Oracle<br>
+  <b>DevSecOps Tools:</b> Git/GitHub, Jenkins, Docker, Datadog, JUnit, Mockito, JMeter<br>
+  <b>Cloud & APIs:</b> REST APIs, Cloud Services
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,c,java,spring,springboot,oracle,git,github,jenkins,docker,junit&theme=dark" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SonuAnsari1998&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+### 🌟 Featured Projects
+- [🚀 Project 1](#) – Short description  
+- [⚡ Project 2](#) – Short description  
+- [🔥 Project 3](#) – Short description  
 
 ---
 
@@ -53,15 +61,8 @@
 
 ### 🔥 Coding Streak Flame
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SonuAnsari1998&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=DD2727" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuAnsari1998&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=DD2727" />
 </p>
-
----
-
-### 🌟 Featured Projects
-- [🚀 Project 1](#) – Short description  
-- [⚡ Project 2](#) – Short description  
-- [🔥 Project 3](#) – Short description  
 
 ---
 
