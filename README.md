@@ -1,6 +1,6 @@
 <!-- Animated Particle Header -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60">
   Hi, I'm <span style="color:#1DA1F2">Sonu Ansari</span>!
 </h1>
 
@@ -35,18 +35,18 @@ I enjoy creating user-centric solutions using modern frameworks and clean code p
 
 ---
 
-### 🌟 Featured Projects (GIF Cards)
+### 🌟 Featured Projects (Upgraded GIF Cards)
 <p align="center">
-  <a href="#"><img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Project 1" title="Project 1"></a>
-  <a href="#"><img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200" alt="Project 2" title="Project 2"></a>
-  <a href="#"><img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" width="200" alt="Project 3" title="Project 3"></a>
+  <a href="#"><img src="https://media.giphy.com/media/3o6Mbo2sCVJgX8cXl6/giphy.gif" width="200" alt="Project 1" title="Project 1"></a>
+  <a href="#"><img src="https://media.giphy.com/media/l4HodBpDmoMA5p9bG/giphy.gif" width="200" alt="Project 2" title="Project 2"></a>
+  <a href="#"><img src="https://media.giphy.com/media/xT0GqF8cdH8bf3ZV0A/giphy.gif" width="200" alt="Project 3" title="Project 3"></a>
 </p>
 
 ---
 
-### 🐍 Contribution Wave / Snake
+### 🐍 Contribution Wave / Neon Snake
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCSPqXEJ5d5DgG0/giphy.gif" width="700" alt="Contribution Wave"/>
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="700" alt="Neon Snake Trail"/>
 </p>
 
 ---
