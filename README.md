@@ -77,7 +77,7 @@ My goal is to work with innovative teams where I can contribute to impactful dig
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SonuAnsari1998/SonuAnsari1998/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/SonuAnsari1998/SonuAnsari1998/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
