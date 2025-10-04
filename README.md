@@ -29,15 +29,16 @@ I create **scalable, secure, and user-friendly web applications** using **Spring
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  
+
+   <!-- Other -->
+  <img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Core_Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Advanced_Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&logo=architecture&logoColor=white">
   
-  <!-- Other -->
-  <img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+ 
 </p>
 
 
