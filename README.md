@@ -36,12 +36,7 @@ I create **scalable, secure, and user-friendly web applications** using **Spring
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&logo=architecture&logoColor=white">
   
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  
-  <!-- DevOps / Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <!-- Other -->
   <img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 </p>
 
