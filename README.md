@@ -108,9 +108,7 @@ I create **scalable, secure, and user-friendly web applications** using **Spring
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SonuAnsari1998&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
-</p>
+
 
 
 
