@@ -111,3 +111,23 @@ I create **scalable, secure, and user-friendly web applications** using **Spring
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SonuAnsari1998&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sonu-ansari-49081b36b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="150" alt="LinkedIn">
+  </a>
+  
+  <a href="https://github.com/SonuAnsari1998" target="_blank">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="GitHub">
+  </a>
+  
+  <a href="mailto:786sonuansari123@gmail.com" target="_blank">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Gmail">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SonuAnsari1998&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
+
