@@ -100,8 +100,9 @@ I create **scalable, secure, and user-friendly web applications** using **Spring
   </a>
   
   <a href="https://github.com/SonuAnsari1998" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/-GitHub-28A745?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
   
   <a href="mailto:786sonuansari123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
