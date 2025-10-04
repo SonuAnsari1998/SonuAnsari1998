@@ -65,7 +65,7 @@ I create **scalable, secure, and user-friendly web applications** using **Spring
 
 </p>
 
-> Hover over each card to see project details. Replace `#` with live demo or repo links.
+> Replace `#` with live demo or repo links for full interactivity.
 
 ---
 
@@ -86,9 +86,17 @@ I create **scalable, secure, and user-friendly web applications** using **Spring
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="[https://linkedin.com/in/yourprofile" target="_blank](https://www.linkedin.com/in/sonu-ansari-49081b36b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sonu-ansari-49081b36b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
