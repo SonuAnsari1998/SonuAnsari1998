@@ -101,7 +101,7 @@ I create **scalable, secure, and user-friendly web applications** using **Spring
   </a>
   
   <a href="https://github.com/SonuAnsari1998" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-28A745?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   
   <a href="mailto:786sonuansari123@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -114,6 +114,7 @@ I create **scalable, secure, and user-friendly web applications** using **Spring
     <img src="https://komarev.com/ghpvc/?username=SonuAnsari1998&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
   </a>
 </p>
+
 
 
 
