@@ -14,7 +14,7 @@
 I am **Sonu Ansari**, an MCA graduate and passionate **Java Full Stack Developer**.  
 I create **scalable, secure, and user-friendly web applications** using **Spring Boot**, **ReactJS**, and **REST APIs**.  
 
-- 🌱 Learning: **Kubernetes, Cloud-native Applications, Advanced DevOps**  
+- 🌱 Learning: **Java Full Stack Developer**  
 - 🔭 Working on: **Full Stack E-Commerce Platform & Social Dashboard**  
 - 💬 Ask me about: **Java, Spring Boot, ReactJS, Microservices, Oracle DB**  
 - ⚡ Fun fact: Turning complex problems into simple solutions is my superpower.  
