@@ -47,15 +47,8 @@ Experienced in designing and developing **secure, scalable, and high-performance
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="120" />
 </p>
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=ecommerce-app&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=task-manager&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=social-dashboard&theme=radical" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" height="120" />
 </p>
 
 
