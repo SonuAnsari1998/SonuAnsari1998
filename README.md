@@ -1,121 +1,104 @@
 <!-- ================= Header ================= -->
 <h1 align="center">
-  👋 Hi, I'm <span style="background: linear-gradient(90deg, #1DA1F2, #FF5733, #00FF00); -webkit-background-clip: text; color: transparent;">Sonu Ansari</span>
+  👋 Hi, I'm <span style="color:#FF5733;">Sonu Ansari</span>
 </h1>
-<h4 align="center">Java Full Stack Developer | Spring Boot & ReactJS | Microservices | Cloud & DevOps</h4>
+
+<h4 align="center">
+  Java Full Stack Developer | Spring Boot | ReactJS | Microservices | Cloud & DevOps
+</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications💻;Clean+Code+%26+Best+Practices✨;Delivering+Secure+%26+Scalable+Solutions🔒" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DA1F2&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Clean+Code+%26+Best+Practices;Secure+%26+Scalable+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SonuAnsari1998&label=Profile%20Views&color=FF5733&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I am **Sonu Ansari**, an MCA graduate and passionate **Java Full Stack Developer**.  
-I create **scalable, secure, and user-friendly web applications** using **Spring Boot**, **ReactJS**, and **REST APIs**.  
+## 👨‍💻 About Me
+I am **Sonu Ansari**, an **MCA graduate** and passionate **Java Full Stack Developer** with hands-on experience in building **scalable, secure, and high-performance web applications**.
 
-- 🌱 Learning: **Java Full Stack Developer**  
-- 🔭 Working on: **Full Stack E-Commerce Platform & Social Dashboard**  
-- 💬 Ask me about: **Java, Spring Boot, ReactJS, Microservices, Oracle DB**  
-- ⚡ Fun fact: Turning complex problems into simple solutions is my superpower.  
+- 🌱 Currently learning: **Advanced Java Full Stack & Microservices**
+- 🔭 Working on: **E-Commerce Platform & Social Media Dashboard**
+- 💬 Ask me about: **Java, Spring Boot, ReactJS, REST APIs, Oracle DB**
+- ⚡ Fun fact: *I love turning complex problems into simple, elegant solutions.*
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### ⚙ Backend
+![Java](https://img.shields.io/badge/Core_Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Advanced_Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge)
+
+### 🗄 Database & Other
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![C](https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 E-Commerce Application
+**Tech:** Java | Spring Boot | ReactJS | Oracle  
+✔ Authentication & Authorization  
+✔ Product & Order Management  
+✔ REST APIs  
+
+### ✅ Task Management System
+**Tech:** Java | Spring Boot | ReactJS  
+✔ Task CRUD  
+✔ Role-based Access  
+✔ Responsive UI  
+
+### 📊 Social Media Dashboard
+**Tech:** Java | Spring Boot | ReactJS  
+✔ Analytics Dashboard  
+✔ Real-time Data Visualization  
+
+> 🔗 *Add GitHub repo & live demo links here*
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
-   <!-- Other -->
-  <img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Core_Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Advanced_Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&logo=architecture&logoColor=white">
-  
- 
-</p>
-
-
-
----
-
-### 🌟 Featured Projects
-<p align="center" style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
-
-<a href="#" style="text-decoration:none; border-radius:15px; overflow:hidden; box-shadow:0 8px 20px rgba(0,0,0,0.2); transition:0.3s; display:block; width:250px;">
-  <img src="https://media.giphy.com/media/3o6Mbo2sCVJgX8cXl6/giphy.gif" alt="E-Commerce App" width="250" style="display:block;">
-  <div style="padding:10px; background:#0d1117; color:white; text-align:center;">
-    <b>E-Commerce App</b><br>
-    Java | Spring Boot | ReactJS | Oracle
-  </div>
-</a>
-
-<a href="#" style="text-decoration:none; border-radius:15px; overflow:hidden; box-shadow:0 8px 20px rgba(0,0,0,0.2); transition:0.3s; display:block; width:250px;">
-  <img src="https://media.giphy.com/media/l4HodBpDmoMA5p9bG/giphy.gif" alt="Task Management App" width="250" style="display:block;">
-  <div style="padding:10px; background:#0d1117; color:white; text-align:center;">
-    <b>Task Management App</b><br>
-    Java | Spring Boot | ReactJS
-  </div>
-</a>
-
-<a href="#" style="text-decoration:none; border-radius:15px; overflow:hidden; box-shadow:0 8px 20px rgba(0,0,0,0.2); transition:0.3s; display:block; width:250px;">
-  <img src="https://media.giphy.com/media/xT0GqF8cdH8bf3ZV0A/giphy.gif" alt="Social Media Dashboard" width="250" style="display:block;">
-  <div style="padding:10px; background:#0d1117; color:white; text-align:center;">
-    <b>Social Media Dashboard</b><br>
-    Java | Spring Boot | ReactJS
-  </div>
-</a>
-
-</p>
-
-> Replace `#` with live demo or repo links for full interactivity.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonuAnsari1998&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=FF5733" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuAnsari1998&theme=radical&hide_border=false&background=0d1117&fire=FF5733" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonuAnsari1998&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuAnsari1998&theme=radical" height="160"/>
 </p>
 
 ---
 
-### 🏆 Achievements & Certifications
-- Oracle Certified Professional, Java SE  
-- Completed multiple Spring Boot & Microservices projects  
-- Contributor to open-source projects on GitHub  
+## 🏆 Achievements & Certifications
+- 🥇 Oracle Certified Java Professional  
+- ✅ Multiple Spring Boot & Microservices Projects  
+- 🌍 Open-Source Contributor  
 
 ---
 
-
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonu-ansari-49081b36b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/sonu-ansari-49081b36b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-  <a href="https://github.com/SonuAnsari1998" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-28A745?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/SonuAnsari1998">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
-  <a href="mailto:786sonuansari123@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:786sonuansari123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
 
-</p>
-
-
-
-
-
-
-
-
+⭐ *If you like my work, consider starring my repositories!*
