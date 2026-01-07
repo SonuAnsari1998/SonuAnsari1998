@@ -45,15 +45,17 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ## 🌟 Featured Projects (Production Mindset)
 
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=600&q=80" height="40](https://cdn.pixabay.com/photo/2015/09/05/20/02/coding-924920_1280.jpg)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Production+Ready+Projects;Scalable+Backend+Systems;Real+World+Applications;Clean+and+Maintainable+Code" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=ecommerce-app&theme=radical" height="40" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?userna
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=ecommerce-app&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=task-manager&theme=radical" />
+</p>
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=social-dashboard&theme=radical" />
+</p>
 
 ---
 
