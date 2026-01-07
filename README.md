@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary (Recruiter Focused)
+## 👨‍💻 Professional Summary
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
