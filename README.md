@@ -84,7 +84,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
   </a>
 </p>
 
-> 📌 Replace `YOUR_RESUME_LINK` with your actual Google Drive resume link
+> 📌 Replace `[YOUR_RESUME_LINK](https://drive.google.com/file/d/1-NPe4kZvAVN98aWg-uNpLy091Esb6ClA/view?usp=drive_link)` with your actual Google Drive resume link
 
 ---
 
