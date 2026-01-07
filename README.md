@@ -45,7 +45,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ## 🌟 Featured Projects (Production Mindset)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Production+Ready+Projects;Scalable+Systems;Real+World+Applications;Clean+Code+Architecture" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="120" />
 </p>
 
 <p align="center">
@@ -56,6 +56,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=social-dashboard&theme=radical" />
 </p>
+
 
 ---
 
