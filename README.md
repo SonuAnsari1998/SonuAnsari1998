@@ -78,13 +78,16 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ---
 
 ## 📄 Resume
+
 <p align="center">
-  <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <a href="https://drive.google.com/uc?export=download&id=1-NPe4kZvAVN98aWg-uNpLy091Esb6ClA">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
-> 📌 Replace `[YOUR_RESUME_LINK](https://drive.google.com/file/d/1-NPe4kZvAVN98aWg-uNpLy091Esb6ClA/view?usp=drive_link)` with your actual Google Drive resume link
+<p align="center">
+  <i>Updated Resume • Java Full Stack Developer • Open to Opportunities</i>
+</p>
 
 ---
 
