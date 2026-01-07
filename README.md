@@ -45,7 +45,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ## 🌟 Featured Projects (Production Mindset)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Production+Ready+Projects;Scalable+Backend+Systems;Real+World+Applications;Clean+and+Maintainable+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Production+Ready+Projects;Scalable+Systems;Real+World+Applications;Clean+Code+Architecture" />
 </p>
 
 <p align="center">
