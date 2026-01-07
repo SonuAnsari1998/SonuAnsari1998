@@ -45,17 +45,13 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ## 🌟 Featured Projects (Production Mindset)
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=900&q=80" width="40%" />
+  <img src="https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=600&q=80" height="40" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=ecommerce-app&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=task-manager&theme=radical" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=ecommerce-app&theme=radical" height="40" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?userna
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=social-dashboard&theme=radical" />
-</p>
 
 
 
