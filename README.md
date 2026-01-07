@@ -45,8 +45,9 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ## 🌟 Featured Projects (Production Mindset)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="120" />
+  <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" height="120" />
 </p>
+
 
 
 
