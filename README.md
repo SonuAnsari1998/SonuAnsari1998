@@ -70,10 +70,10 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 ---
 
-## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SonuAnsari1998/SonuAnsari1998/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SonuAnsari1998/github-snake-animation/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
+
 
 ---
 
