@@ -37,8 +37,9 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ## 🧠 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,oracle,mysql,git,github,docker&perline=6&theme=dark&animate=true" height="60" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,oracle,mysql,git,github,docker&perline=6&theme=light&animate=true" height="60" />
 </p>
+
 
 
 ---
