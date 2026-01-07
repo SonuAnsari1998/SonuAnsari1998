@@ -1,7 +1,7 @@
-<!-- ================= FINAL ULTRA ANIMATED GITHUB README ================= -->
+<!-- ================= ULTIMATE FINAL GITHUB README ================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sonu+Ansari;Java+Full+Stack+Developer;Spring+Boot+%7C+ReactJS+%7C+Microservices;Building+Scalable+%26+Secure+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Sonu+Ansari;Java+Full+Stack+Developer;Spring+Boot+%7C+ReactJS+%7C+Microservices;Building+Enterprise-Grade+Applications+🚀" />
 </h1>
 
 <p align="center">
@@ -16,22 +16,25 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary (Recruiter Focused)
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-✨ **MCA Graduate | Java Full Stack Developer**  
-I build **secure, scalable, and high-performance web applications** using **Java, Spring Boot, and ReactJS**.
+🚀 **Java Full Stack Developer | MCA Graduate**  
+Experienced in designing and developing **secure, scalable, and high-performance web applications** using **Java, Spring Boot, ReactJS, and Microservices architecture**.
 
-- 🔥 Strong in Backend + Full Stack Architecture  
-- 🌱 Learning: **Microservices, Cloud & DevOps**  
-- 🔭 Working on: **E-Commerce Platform & Social Media Dashboard**  
-- 💬 Ask me about: **Java, Spring Boot, REST APIs, ReactJS, Oracle DB**  
-- ⚡ Fun fact: I love simplifying complex problems into clean solutions
+✔ Strong backend development & REST API design  
+✔ Clean code, SOLID principles & best practices  
+✔ Production-ready application mindset  
+
+- 🔭 Current Projects: **E-Commerce Platform, Social Media Dashboard**
+- 🌱 Learning: **Cloud, Docker, DevOps**
+- 💬 Tech Stack: **Java, Spring Boot, ReactJS, REST APIs, Oracle DB**
+- ⚡ Strength: Turning complex business logic into simple solutions
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,oracle,mysql,git,github,docker&perline=6"/>
@@ -39,7 +42,7 @@ I build **secure, scalable, and high-performance web applications** using **Java
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects (Production Mindset)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=ecommerce-app&theme=radical"/>
@@ -50,11 +53,11 @@ I build **secure, scalable, and high-performance web applications** using **Java
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonuAnsari1998&repo=social-dashboard&theme=radical"/>
 </p>
 
-> 🔁 Replace repo names with your actual repositories for live preview
+> 🔁 Replace repo names with actual repositories
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuAnsari1998&bg_color=0d1117&color=FF5733&line=1DA1F2&point=FFFFFF"/>
@@ -67,11 +70,37 @@ I build **secure, scalable, and high-performance web applications** using **Java
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SonuAnsari1998/SonuAnsari1998/output/github-contribution-grid-snake.svg" />
+</p>
 
+---
+
+## 📄 Resume
+<p align="center">
+  <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+> 📌 Replace `YOUR_RESUME_LINK` with your actual Google Drive resume link
+
+---
+
+## 🤖 GitHub Actions (Automation)
+✔ Auto-updating profile animations  
+✔ Snake contribution workflow  
+✔ Clean CI-ready profile  
+
+> Powered by GitHub Actions ⚙️
+
+---
+
+## 🏆 Certifications & Achievements
 - 🥇 Oracle Certified Java Professional  
-- 🚀 Built multiple Spring Boot & Microservices projects  
-- 🌍 Active Open-Source Contributor  
+- 🚀 Built multiple Spring Boot & Microservices applications  
+- 🌍 Open-Source Contributor  
 
 ---
 
@@ -91,4 +120,5 @@ I build **secure, scalable, and high-performance web applications** using **Java
 
 ---
 
-<h3 align="center">⭐ Star my repositories if you like my work ⭐</h3>
+<h3 align="center">⭐ Actively looking for Java Full Stack Developer opportunities ⭐</h3>
+<h4 align="center">Open to Work | Ready for Interviews</h4>
