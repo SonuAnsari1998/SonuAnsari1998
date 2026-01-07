@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/github/stars/SonuAnsari1998?label=Stars&style=for-the-badge&color=FFD700"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SonuAnsari1998&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
+
 
 ---
 
