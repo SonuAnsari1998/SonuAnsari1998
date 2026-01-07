@@ -33,9 +33,23 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ---
 
 ## 🧠 Technical Skills
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,oracle,mysql,git,github,docker&perline=6&theme=dark&animate=true" height="90" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+   <!-- Other -->
+  <img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Core_Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Advanced_Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&logo=architecture&logoColor=white">
+  
+ 
 </p>
 
 
