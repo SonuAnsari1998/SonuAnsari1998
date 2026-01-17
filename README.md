@@ -128,36 +128,38 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ## 💻 Coding Profiles – Senior Level
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4DA6FF&center=true&vCenter=true&width=750&lines=DSA+%26+Problem+Solving;Core+Java+%7C+Advanced+Java+%7C+Spring+Boot;Interview+Ready+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4DA6FF&center=true&vCenter=true&width=800&lines=DSA+%26+Problem+Solving;Core+Java+%7C+Advanced+Java+%7C+Spring+Boot;Senior+Level+Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/🟧LeetCode-DSA%20%26%20Java-orange?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFAA00"/>
-  </a>
-  <br>
-  <sub>Optimized algorithms • Problem solving • Complexity analysis • Daily challenges</sub>
+
+<a href="https://leetcode.com/username" target="_blank" style="text-decoration: none;">
+<span style="border:2px solid #FFA500; border-radius:12px; padding:10px 15px; margin:5px; display:inline-block;">
+🟧 **LeetCode**  
+<sub>DSA & Algorithms • Daily Challenges • Complexity Analysis</sub>
+</span>
+</a>
+
+<a href="https://hackerrank.com/username" target="_blank" style="text-decoration: none;">
+<span style="border:2px solid #2EC866; border-radius:12px; padding:10px 15px; margin:5px; display:inline-block;">
+🟩 **HackerRank**  
+<sub>Core Java • OOP • Clean & Maintainable Code</sub>
+</span>
+</a>
+
+<a href="https://www.codechef.com/users/username" target="_blank" style="text-decoration: none;">
+<span style="border:2px solid #5B4638; border-radius:12px; padding:10px 15px; margin:5px; display:inline-block;">
+🟫 **CodeChef**  
+<sub>Competitive Programming • Edge Case Handling • Speed</sub>
+</span>
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://hackerrank.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/🟩HackerRank-Core%20Java-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866"/>
-  </a>
-  <br>
-  <sub>OOP & Java fundamentals • Clean & maintainable code • Real-world challenges</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Strong+coding+skills+with+practical+impact+for+senior+engineers" />
 </p>
 
-<p align="center">
-  <a href="https://www.codechef.com/users/username" target="_blank">
-    <img src="https://img.shields.io/badge/🟫CodeChef-Competitive%20Programming-brown?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638"/>
-  </a>
-  <br>
-  <sub>Algorithmic speed • Edge-case handling • Performance optimization</sub>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=Strong+coding+skills+with+practical+impact+for+senior+level+roles" />
-</p>
 
 
 
