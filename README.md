@@ -51,6 +51,12 @@ Experienced in designing and developing **secure, scalable, and high-performance
   
  
 </p>
+## 🤝 Soft Skills
+- Problem Solving
+- Team Collaboration
+- Clear Communication
+- Quick Learner
+- Ownership Mindset
 
 
 
