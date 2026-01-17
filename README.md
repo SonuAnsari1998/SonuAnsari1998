@@ -123,30 +123,44 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ---
 
 
-## 💻 Coding Profiles  
+## 💻 Coding Profiles
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1400&color=5DA9FF&center=true&vCenter=true&width=760&lines=Problem+Solving+%7C+DSA+%7C+Interview+Preparation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=DSA+%7C+Problem+Solving+%7C+Interview+Ready" />
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/username">
-    <img src="https://img.shields.io/badge/LeetCode-Interview%20Preparation-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://hackerrank.com/username">
-    <img src="https://img.shields.io/badge/HackerRank-Core%20Java%20%26%20DSA-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/username">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Practice-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://leetcode.com/username">
+  <img src="https://img.shields.io/badge/LeetCode-DSA%20%26%20Java-FFA500?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<br>
+<sub>Practice optimized algorithms and strengthen problem-solving mindset.</sub>
+</td>
+
+<td align="center" valign="top" width="33%">
+<a href="https://hackerrank.com/username">
+  <img src="https://img.shields.io/badge/HackerRank-Core%20Java%20%26%20DSA-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<br>
+<sub>Focus on Core Java, OOP concepts and solving real-world coding challenges.</sub>
+</td>
+
+<td align="center" valign="top" width="33%">
+<a href="https://www.codechef.com/users/username">
+  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<br>
+<sub>Enhancing speed, logical thinking, and algorithmic efficiency.</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <sub>
-    Focused on writing clean, optimized solutions with strong fundamentals in
-    data structures, algorithms, and Java problem solving.
-  </sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Strong+problem+solving+skills+form+the+foundation+of+great+software+engineers" />
 </p>
+
 
 
 
