@@ -60,26 +60,27 @@ Experienced in designing and developing **secure, scalable, and high-performance
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-★★★★☆-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Team%20Collaboration-★★★★★-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Communication-★★★★☆-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Learning%20Speed-★★★★★-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Ownership%20Mindset-★★★★★-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Problem%20Solving-Advanced-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Team%20Collaboration-Expert-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Communication-Strong-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Learning%20Speed-Fast-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ownership%20Mindset-High-red?style=for-the-badge">
 </p>
 
 ---
 
 ### 💡 How I Apply These Skills in Real Projects
 
-- 🧠 **Problem Solving** → Debug complex backend issues & optimize performance  
-- 🤝 **Team Collaboration** → Work closely with frontend, QA & stakeholders  
-- 🗣️ **Clear Communication** → Explain technical concepts in simple terms  
-- 🚀 **Quick Learner** → Adapt to new tools, frameworks & domains quickly  
-- 🏆 **Ownership Mindset** → Take responsibility from design to deployment  
+- 🧠 **Problem Solving** → Break complex requirements into clean solutions  
+- 🤝 **Team Collaboration** → Agile-based teamwork with dev & QA  
+- 🗣️ **Clear Communication** → Business-friendly technical explanations  
+- 🚀 **Fast Learner** → Rapid adoption of new tools & frameworks  
+- 🏆 **Ownership Mindset** → Feature ownership from design to production  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Soft+skills+turn+good+developers+into+great+engineers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Soft+skills+define+engineering+excellence" />
 </p>
+
 
 
 
