@@ -126,50 +126,28 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ## 💻 Coding Profiles  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=4DA6FF&center=true&vCenter=true&width=720&lines=Problem+Solving+%7C+DSA+Mastery+%7C+Consistent+Practice" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1400&color=5DA9FF&center=true&vCenter=true&width=760&lines=Problem+Solving+%7C+DSA+%7C+Interview+Preparation" />
 </p>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-<a href="https://leetcode.com/username">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>  
-
-• DSA & Interview Preparation  
-• Optimized Solutions  
-• Time & Space Complexity  
-
-</td>
-<td align="center" width="33%">
-
-<a href="https://hackerrank.com/username">
-  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>  
-
-• Core Java Challenges  
-• Algorithmic Thinking  
-• Clean & Correct Code  
-
-</td>
-<td align="center" width="33%">
-
-<a href="https://www.codechef.com/users/username">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>  
-
-• Competitive Programming  
-• Logical Speed  
-• Edge Case Handling  
-
-</td>
-</tr>
-</table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1400&color=FF6F61&center=true&vCenter=true&width=820&lines=Strong+problem+solving+skills+form+the+foundation+of+great+software+engineers" />
+  <a href="https://leetcode.com/username">
+    <img src="https://img.shields.io/badge/LeetCode-Interview%20Preparation-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://hackerrank.com/username">
+    <img src="https://img.shields.io/badge/HackerRank-Core%20Java%20%26%20DSA-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/username">
+    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Practice-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
+  <sub>
+    Focused on writing clean, optimized solutions with strong fundamentals in
+    data structures, algorithms, and Java problem solving.
+  </sub>
+</p>
+
 
 
 ---
