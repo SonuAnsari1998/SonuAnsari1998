@@ -131,37 +131,44 @@ Experienced in designing and developing **secure, scalable, and high-performance
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=DSA+%7C+Core+Java+%7C+Spring+Boot;Problem+Solving+%26+Algorithmic+Excellence" />
 </p>
 
-<div align="center" style="display:flex; justify-content: center; gap: 20px;">
+<div align="center" style="display:flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px;">
+<a href="https://leetcode.com/username" target="_blank" style="text-decoration: none;">
+<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 **🟧 LeetCode**  
 - Optimized Algorithms  
 - Problem-Solving Mindset  
 - Complexity Analysis  
 - Daily Challenge Consistency  
 </div>
+</a>
 
-<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px;">
+<a href="https://hackerrank.com/username" target="_blank" style="text-decoration: none;">
+<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 **🟩 HackerRank**  
 - Core Java & OOP  
 - Real-World Coding Challenges  
 - Clean & Maintainable Code  
 - Test-Driven Approach  
 </div>
+</a>
 
-<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px;">
+<a href="https://www.codechef.com/users/username" target="_blank" style="text-decoration: none;">
+<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 **🟫 CodeChef**  
 - Competitive Programming  
 - Edge Case Handling  
 - Algorithmic Speed  
 - Performance Optimization  
 </div>
+</a>
 
 </div>
 
 <p align="center">
   <sub>Consistent practice + strong fundamentals = Senior Level Coding Expertise 💻</sub>
 </p>
+
 
 
 
