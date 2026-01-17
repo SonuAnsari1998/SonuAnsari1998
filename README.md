@@ -143,16 +143,35 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 ---
 
-### 🚀 Coding Focus Areas
-- Arrays, Strings, Recursion
-- Linked List, Stack, Queue
-- Trees, Graphs
-- Hashing & Sliding Window
-- Time & Space Optimization
+### 🚀 Coding Focus Areas (Interview-Oriented)
+
+#### ☕ Core Java
+- OOPs Concepts (Inheritance, Polymorphism, Abstraction, Encapsulation)
+- Collections Framework (List, Set, Map – internal working)
+- Exception Handling & Custom Exceptions
+- Multithreading & Concurrency Basics
+- Java 8 Features (Lambda, Stream API, Functional Interfaces)
+
+#### 🚀 Advanced Java
+- JDBC & Connection Pooling
+- Servlet & JSP Lifecycle
+- Session Management
+- Multithreading in Web Applications
+- JVM Architecture & Garbage Collection
+
+#### 🌱 Spring Boot
+- Spring Core, IOC & Dependency Injection
+- REST API Development
+- Spring MVC Architecture
+- Spring Data JPA & Hibernate
+- Exception Handling & Validation
+- Security Basics (JWT, Role-Based Access)
+- Microservices Communication (REST)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Consistency+beats+talent+in+problem+solving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF5733&center=true&vCenter=true&width=750&lines=Strong+Java+fundamentals+build+scalable+enterprise+applications" />
 </p>
+
 
 
 
