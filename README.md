@@ -143,7 +143,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 ---
 
-### 🚀 Coding Focus Areas (Interview-Oriented)
+### 🚀 Coding Focus Areas 
 
 #### ☕ Core Java
 - OOPs Concepts (Inheritance, Polymorphism, Abstraction, Encapsulation)
