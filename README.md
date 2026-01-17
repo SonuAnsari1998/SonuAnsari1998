@@ -122,44 +122,54 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 ---
 
-
-## 💻 Coding Profiles
+## 💻 Coding Profiles – Senior Level
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=DSA+%7C+Problem+Solving+%7C+Interview+Ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=1E90FF&center=true&vCenter=true&width=700&lines=DSA+%26+Problem+Solving;Core+Java+%7C+Advanced+Java+%7C+Spring+Boot;Interview+Ready+Engineering" />
 </p>
 
 <table align="center">
 <tr>
-<td align="center" valign="top" width="33%">
-<a href="https://leetcode.com/username">
-  <img src="https://img.shields.io/badge/LeetCode-DSA%20%26%20Java-FFA500?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<br>
-<sub>Practice optimized algorithms and strengthen problem-solving mindset.</sub>
+<td align="left" width="33%">
+**LeetCode**  
+<img src="https://img.shields.io/badge/DSA-Advanced-FFA500?style=for-the-badge">  
+• Optimized algorithms  
+• Efficient problem-solving mindset  
+• Complexity analysis  
 </td>
 
-<td align="center" valign="top" width="33%">
-<a href="https://hackerrank.com/username">
-  <img src="https://img.shields.io/badge/HackerRank-Core%20Java%20%26%20DSA-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<br>
-<sub>Focus on Core Java, OOP concepts and solving real-world coding challenges.</sub>
+<td align="left" width="33%">
+**HackerRank**  
+<img src="https://img.shields.io/badge/Core_Java%20%26%20OOP-Expert-2EC866?style=for-the-badge">  
+• OOP & Java fundamentals  
+• Real-world coding challenges  
+• Clean & maintainable code  
 </td>
 
-<td align="center" valign="top" width="33%">
-<a href="https://www.codechef.com/users/username">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-<br>
-<sub>Enhancing speed, logical thinking, and algorithmic efficiency.</sub>
+<td align="left" width="33%">
+**CodeChef**  
+<img src="https://img.shields.io/badge/Competitive%20Programming-Advanced-5B4638?style=for-the-badge">  
+• Logic & algorithm speed  
+• Edge case handling  
+• Performance optimization  
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Strong+problem+solving+skills+form+the+foundation+of+great+software+engineers" />
+**Technical Mastery Level**
 </p>
+
+<p align="center">
+LeetCode: <img src="https://img.shields.io/badge/Progress-90%25-FFA500?style=for-the-badge">  
+HackerRank: <img src="https://img.shields.io/badge/Progress-85%25-2EC866?style=for-the-badge">  
+CodeChef: <img src="https://img.shields.io/badge/Progress-80%25-5B4638?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=Senior+Level+Coding+Skills+with+Real+Impact" />
+</p>
+
 
 
 
