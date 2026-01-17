@@ -128,36 +128,33 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ## 💻 Coding Profiles – Senior Level
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4DA6FF&center=true&vCenter=true&width=800&lines=DSA+%26+Problem+Solving;Core+Java+%7C+Advanced+Java+%7C+Spring+Boot;Senior+Level+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4DA6FF&center=true&vCenter=true&width=800&lines=DSA+%26+Problem+Solving;Core+Java+%7C+Advanced+Java+%7C+Spring+Boot;Interview+Ready+Engineer" />
 </p>
 
 <p align="center">
 
-<a href="https://leetcode.com/username" target="_blank" style="text-decoration: none;">
-<span style="border:2px solid #FFA500; border-radius:12px; padding:10px 15px; margin:5px; display:inline-block;">
-🟧 **LeetCode**  
-<sub>DSA & Algorithms • Daily Challenges • Complexity Analysis</sub>
+<a href="https://leetcode.com/username" target="_blank" style="text-decoration: none; margin:5px;">
+<span style="border:2px solid #FFA500; border-radius:12px; padding:12px 20px; display:inline-block;">
+🟧 **LeetCode** – Optimized algorithms • Problem solving • Complexity analysis • Daily challenges
 </span>
 </a>
 
-<a href="https://hackerrank.com/username" target="_blank" style="text-decoration: none;">
-<span style="border:2px solid #2EC866; border-radius:12px; padding:10px 15px; margin:5px; display:inline-block;">
-🟩 **HackerRank**  
-<sub>Core Java • OOP • Clean & Maintainable Code</sub>
+<a href="https://hackerrank.com/username" target="_blank" style="text-decoration: none; margin:5px;">
+<span style="border:2px solid #2EC866; border-radius:12px; padding:12px 20px; display:inline-block;">
+🟩 **HackerRank** – Core Java • OOP • Clean & maintainable code • Real-world challenges
 </span>
 </a>
 
-<a href="https://www.codechef.com/users/username" target="_blank" style="text-decoration: none;">
-<span style="border:2px solid #5B4638; border-radius:12px; padding:10px 15px; margin:5px; display:inline-block;">
-🟫 **CodeChef**  
-<sub>Competitive Programming • Edge Case Handling • Speed</sub>
+<a href="https://www.codechef.com/users/username" target="_blank" style="text-decoration: none; margin:5px;">
+<span style="border:2px solid #5B4638; border-radius:12px; padding:12px 20px; display:inline-block;">
+🟫 **CodeChef** – Competitive Programming • Edge-case handling • Performance optimization
 </span>
 </a>
 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Strong+coding+skills+with+practical+impact+for+senior+engineers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Strong+coding+skills+with+practical+impact+for+senior+level+roles" />
 </p>
 
 
