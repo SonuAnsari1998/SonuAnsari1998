@@ -122,6 +122,46 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 ---
 
+
+## 💻 Coding Profiles  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Structures+%26+Algorithms;Problem+Solving+Mindset;Consistent+Daily+Practice" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/username">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://hackerrank.com/username">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/username">
+    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Coding Focus Areas
+- Arrays, Strings, Recursion
+- Linked List, Stack, Queue
+- Trees, Graphs
+- Hashing & Sliding Window
+- Time & Space Optimization
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Consistency+beats+talent+in+problem+solving" />
+</p>
+
+
+
+
+
+
+
+
+
 ## 📄 Resume
 
 <p align="center">
