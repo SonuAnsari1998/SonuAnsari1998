@@ -51,12 +51,36 @@ Experienced in designing and developing **secure, scalable, and high-performance
   
  
 </p>
-## 🤝 Soft Skills
-- Problem Solving
-- Team Collaboration
-- Clear Communication
-- Quick Learner
-- Ownership Mindset
+
+
+## 🤝 Soft Skills  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Problem+Solver;Team+Player;Clear+Communicator;Fast+Learner;Ownership+Mindset" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-★★★★☆-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Team%20Collaboration-★★★★★-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Communication-★★★★☆-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Learning%20Speed-★★★★★-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ownership%20Mindset-★★★★★-red?style=for-the-badge">
+</p>
+
+---
+
+### 💡 How I Apply These Skills in Real Projects
+
+- 🧠 **Problem Solving** → Debug complex backend issues & optimize performance  
+- 🤝 **Team Collaboration** → Work closely with frontend, QA & stakeholders  
+- 🗣️ **Clear Communication** → Explain technical concepts in simple terms  
+- 🚀 **Quick Learner** → Adapt to new tools, frameworks & domains quickly  
+- 🏆 **Ownership Mindset** → Take responsibility from design to deployment  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Soft+skills+turn+good+developers+into+great+engineers" />
+</p>
+
 
 
 
