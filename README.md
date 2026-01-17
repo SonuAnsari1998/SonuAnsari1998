@@ -122,53 +122,47 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 ---
 
-## 💻 Coding Profiles – Senior Level
+
+
+
+## 💻 Coding Profiles – Senior Engineer Level
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=1E90FF&center=true&vCenter=true&width=700&lines=DSA+%26+Problem+Solving;Core+Java+%7C+Advanced+Java+%7C+Spring+Boot;Interview+Ready+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=DSA+%7C+Core+Java+%7C+Spring+Boot;Problem+Solving+%26+Algorithmic+Excellence" />
 </p>
 
-<table align="center">
-<tr>
-<td align="left" width="33%">
-**LeetCode**  
-<img src="https://img.shields.io/badge/DSA-Advanced-FFA500?style=for-the-badge">  
-• Optimized algorithms  
-• Efficient problem-solving mindset  
-• Complexity analysis  
-</td>
+<div align="center" style="display:flex; justify-content: center; gap: 20px;">
 
-<td align="left" width="33%">
-**HackerRank**  
-<img src="https://img.shields.io/badge/Core_Java%20%26%20OOP-Expert-2EC866?style=for-the-badge">  
-• OOP & Java fundamentals  
-• Real-world coding challenges  
-• Clean & maintainable code  
-</td>
+<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px;">
+**🟧 LeetCode**  
+- Optimized Algorithms  
+- Problem-Solving Mindset  
+- Complexity Analysis  
+- Daily Challenge Consistency  
+</div>
 
-<td align="left" width="33%">
-**CodeChef**  
-<img src="https://img.shields.io/badge/Competitive%20Programming-Advanced-5B4638?style=for-the-badge">  
-• Logic & algorithm speed  
-• Edge case handling  
-• Performance optimization  
-</td>
-</tr>
-</table>
+<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px;">
+**🟩 HackerRank**  
+- Core Java & OOP  
+- Real-World Coding Challenges  
+- Clean & Maintainable Code  
+- Test-Driven Approach  
+</div>
+
+<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px;">
+**🟫 CodeChef**  
+- Competitive Programming  
+- Edge Case Handling  
+- Algorithmic Speed  
+- Performance Optimization  
+</div>
+
+</div>
 
 <p align="center">
-**Technical Mastery Level**
+  <sub>Consistent practice + strong fundamentals = Senior Level Coding Expertise 💻</sub>
 </p>
 
-<p align="center">
-LeetCode: <img src="https://img.shields.io/badge/Progress-90%25-FFA500?style=for-the-badge">  
-HackerRank: <img src="https://img.shields.io/badge/Progress-85%25-2EC866?style=for-the-badge">  
-CodeChef: <img src="https://img.shields.io/badge/Progress-80%25-5B4638?style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=Senior+Level+Coding+Skills+with+Real+Impact" />
-</p>
 
 
 
