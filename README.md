@@ -135,7 +135,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 <tr>
 <td align="center" width="33%">
 
-<a href="https://leetcode.com/username">
+<a href="https://leetcode.com/u/Sonu_Ansari-123/">
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>  
 
@@ -146,7 +146,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 </td>
 <td align="center" width="33%">
 
-<a href="https://hackerrank.com/username">
+<a href="https://www.hackerrank.com/profile/codewithsonu">
   <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>  
 
@@ -157,7 +157,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 </td>
 <td align="center" width="33%">
 
-<a href="https://www.codechef.com/users/username">
+<a href="https://www.codechef.com/users/codewithsonu">
   <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>  
 
