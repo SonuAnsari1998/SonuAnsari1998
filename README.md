@@ -134,21 +134,18 @@ Experienced in designing and developing **secure, scalable, and high-performance
 <p align="center">
 
 <a href="https://leetcode.com/username" target="_blank" style="text-decoration: none; margin:5px;">
-<span style="border:2px solid #FFA500; border-radius:12px; padding:12px 20px; display:inline-block;">
-🟧 **LeetCode** – Optimized algorithms • Problem solving • Complexity analysis • Daily challenges
-</span>
+<img src="https://img.shields.io/badge/🟧LeetCode-DSA%20%26%20Java-orange?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFAA00"/>
+<sub>Optimized algorithms • Problem solving • Complexity analysis • Daily challenges</sub>
 </a>
 
 <a href="https://hackerrank.com/username" target="_blank" style="text-decoration: none; margin:5px;">
-<span style="border:2px solid #2EC866; border-radius:12px; padding:12px 20px; display:inline-block;">
-🟩 **HackerRank** – Core Java • OOP • Clean & maintainable code • Real-world challenges
-</span>
+<img src="https://img.shields.io/badge/🟩HackerRank-Core%20Java-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866"/>
+<sub>OOP & Java fundamentals • Clean & maintainable code • Real-world challenges</sub>
 </a>
 
 <a href="https://www.codechef.com/users/username" target="_blank" style="text-decoration: none; margin:5px;">
-<span style="border:2px solid #5B4638; border-radius:12px; padding:12px 20px; display:inline-block;">
-🟫 **CodeChef** – Competitive Programming • Edge-case handling • Performance optimization
-</span>
+<img src="https://img.shields.io/badge/🟫CodeChef-Competitive%20Programming-brown?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638"/>
+<sub>Algorithmic speed • Edge-case handling • Performance optimization</sub>
 </a>
 
 </p>
@@ -156,6 +153,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Strong+coding+skills+with+practical+impact+for+senior+level+roles" />
 </p>
+
 
 
 
