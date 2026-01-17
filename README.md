@@ -125,49 +125,68 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 
 
-## 💻 Coding Profiles – Senior Engineer Level
+## 💻 Coding Profiles – Senior Level
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=DSA+%7C+Core+Java+%7C+Spring+Boot;Problem+Solving+%26+Algorithmic+Excellence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4DA6FF&center=true&vCenter=true&width=750&lines=DSA+%26+Problem+Solving;Core+Java+%7C+Advanced+Java+%7C+Spring+Boot;Interview+Ready+Engineer" />
 </p>
 
-<div align="center" style="display:flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
 
-<a href="https://leetcode.com/username" target="_blank" style="text-decoration: none;">
-<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-**🟧 LeetCode**  
-- Optimized Algorithms  
-- Problem-Solving Mindset  
-- Complexity Analysis  
-- Daily Challenge Consistency  
-</div>
+<a href="https://leetcode.com/username" target="_blank">
+<table>
+<tr>
+<td style="border: 2px solid #FFA500; border-radius: 15px; padding: 15px; width: 220px; text-align:left;">
+<h3>🟧 LeetCode</h3>
+<ul>
+<li>Optimized Algorithms</li>
+<li>Problem-Solving Mindset</li>
+<li>Complexity Analysis</li>
+<li>Daily Challenge Consistency</li>
+</ul>
+</td>
+</tr>
+</table>
 </a>
 
-<a href="https://hackerrank.com/username" target="_blank" style="text-decoration: none;">
-<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-**🟩 HackerRank**  
-- Core Java & OOP  
-- Real-World Coding Challenges  
-- Clean & Maintainable Code  
-- Test-Driven Approach  
-</div>
+<a href="https://hackerrank.com/username" target="_blank">
+<table>
+<tr>
+<td style="border: 2px solid #2EC866; border-radius: 15px; padding: 15px; width: 220px; text-align:left;">
+<h3>🟩 HackerRank</h3>
+<ul>
+<li>Core Java & OOP</li>
+<li>Real-World Coding Challenges</li>
+<li>Clean & Maintainable Code</li>
+<li>Test-Driven Approach</li>
+</ul>
+</td>
+</tr>
+</table>
 </a>
 
-<a href="https://www.codechef.com/users/username" target="_blank" style="text-decoration: none;">
-<div align="left" width="220px" style="border:1px solid #ccc; padding:15px; border-radius:12px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-**🟫 CodeChef**  
-- Competitive Programming  
-- Edge Case Handling  
-- Algorithmic Speed  
-- Performance Optimization  
-</div>
+<a href="https://www.codechef.com/users/username" target="_blank">
+<table>
+<tr>
+<td style="border: 2px solid #5B4638; border-radius: 15px; padding: 15px; width: 220px; text-align:left;">
+<h3>🟫 CodeChef</h3>
+<ul>
+<li>Competitive Programming</li>
+<li>Edge Case Handling</li>
+<li>Algorithmic Speed</li>
+<li>Performance Optimization</li>
+</ul>
+</td>
+</tr>
+</table>
 </a>
 
 </div>
 
 <p align="center">
-  <sub>Consistent practice + strong fundamentals = Senior Level Coding Expertise 💻</sub>
+<sub>💡 Consistent practice + strong fundamentals = Senior-Level Coding Expertise</sub>
 </p>
+
 
 
 
