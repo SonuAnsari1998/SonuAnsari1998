@@ -146,7 +146,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 ## 🚀 Coding Focus Areas  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Core+Java+%7C+Advanced+Java+%7C+Spring+Boot;Interview+Focused+Backend+Expertise" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=4DA6FF&center=true&vCenter=true&width=700&lines=Interview-Ready+Java+Backend+Expertise;Core+Java+%7C+Advanced+Java+%7C+Spring+Boot" />
 </p>
 
 <table align="center">
@@ -154,41 +154,42 @@ Experienced in designing and developing **secure, scalable, and high-performance
 <td width="33%" valign="top">
 
 ### ☕ Core Java  
-✔ OOPs Concepts (Inheritance, Polymorphism, Abstraction, Encapsulation)  
-✔ Collections Framework (List, Set, Map – internal working)  
-✔ Exception Handling & Custom Exceptions  
-✔ Multithreading & Concurrency Basics  
-✔ Java 8 Features (Lambda, Stream API, Functional Interfaces)  
+• OOPs Concepts (Inheritance, Polymorphism, Abstraction, Encapsulation)  
+• Collections Framework (List, Set, Map – Internal Working)  
+• Exception Handling & Custom Exceptions  
+• Multithreading & Concurrency Basics  
+• Java 8 Features (Lambda Expressions, Stream API, Functional Interfaces)  
 
 </td>
 <td width="33%" valign="top">
 
 ### 🚀 Advanced Java  
-✔ JDBC & Connection Pooling  
-✔ Servlet & JSP Lifecycle  
-✔ Session Management  
-✔ Multithreading in Web Applications  
-✔ JVM Architecture & Garbage Collection  
+• JDBC & Connection Pooling  
+• Servlet & JSP Lifecycle  
+• Session Management  
+• Multithreading in Web Applications  
+• JVM Architecture & Garbage Collection  
 
 </td>
 <td width="33%" valign="top">
 
 ### 🌱 Spring Boot  
-✔ Spring Core, IOC & Dependency Injection  
-✔ REST API Development  
-✔ Spring MVC Architecture  
-✔ Spring Data JPA & Hibernate  
-✔ Exception Handling & Validation  
-✔ Security Basics (JWT, Role-Based Access)  
-✔ Microservices Communication (REST)  
+• Spring Core, IoC & Dependency Injection  
+• RESTful API Development  
+• Spring MVC Architecture  
+• Spring Data JPA & Hibernate  
+• Exception Handling & Validation  
+• Security Fundamentals (JWT, Role-Based Access)  
+• Microservices Communication (REST)  
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF5733&center=true&vCenter=true&width=780&lines=Strong+Java+fundamentals+build+scalable+enterprise+applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1400&color=FF6F61&center=true&vCenter=true&width=820&lines=Strong+Java+fundamentals+enable+scalable+and+maintainable+enterprise+applications" />
 </p>
+
 
 
 
