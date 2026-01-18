@@ -133,7 +133,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <a href="https://leetcode.com/u/Sonu_Ansari-123/">
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -144,7 +144,8 @@ Experienced in designing and developing **secure, scalable, and high-performance
 • Time & Space Complexity  
 
 </td>
-<td align="center" width="33%">
+
+<td align="center" width="25%">
 
 <a href="https://www.hackerrank.com/profile/codewithsonu">
   <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
@@ -155,7 +156,8 @@ Experienced in designing and developing **secure, scalable, and high-performance
 • Clean & Correct Code  
 
 </td>
-<td align="center" width="33%">
+
+<td align="center" width="25%">
 
 <a href="https://www.codechef.com/users/codewithsonu">
   <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
@@ -166,12 +168,25 @@ Experienced in designing and developing **secure, scalable, and high-performance
 • Edge Case Handling  
 
 </td>
+
+<td align="center" width="25%">
+
+<a href="https://auth.geeksforgeeks.org/user/codewithsonu/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>  
+
+• DSA Fundamentals  
+• Concept Clarity  
+• Interview-Focused Problems  
+
+</td>
 </tr>
 </table>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1400&color=FF6F61&center=true&vCenter=true&width=820&lines=Strong+problem+solving+skills+form+the+foundation+of+great+software+engineers" />
 </p>
+
 
 
 
