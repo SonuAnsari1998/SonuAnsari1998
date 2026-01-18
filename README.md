@@ -171,13 +171,14 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 <td align="center" width="25%">
 
-<a href="https://auth.geeksforgeeks.org/user/codewithsonu/">
+<a href="https://www.geeksforgeeks.org/profile/codewithsonu">
   <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>  
 
 • DSA Fundamentals  
 • Concept Clarity  
-• Interview-Focused Problems  
+• Interview-Focused Problems
+• MCQ
 
 </td>
 </tr>
