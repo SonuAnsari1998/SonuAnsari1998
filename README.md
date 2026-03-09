@@ -104,20 +104,38 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 ## 📈 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuAnsari1998&bg_color=0d1117&color=FF5733&line=1DA1F2&point=FFFFFF"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonuAnsari1998&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuAnsari1998&theme=radical&hide_border=true" height="165"/>
-</p>
+<!-- Activity Graph with better styling -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuAnsari1998&bg_color=0d1117&color=FF5733&line=1DA1F2&point=FFFFFF&area=true&area_color=1DA1F2&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Stats + Streak side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=SonuAnsari1998&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuAnsari1998&theme=radical&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Top Languages card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuAnsari1998&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150"/>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/SonuAnsari1998/github-snake-animation/output/github-snake.svg" alt="GitHub Snake Animation" />
-</p>
+</div>
 
 
 ---
