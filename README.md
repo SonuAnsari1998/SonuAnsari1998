@@ -113,24 +113,24 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuAnsari1998&bg_color=0d1117&color=FF5733&line=1DA1F2&point=00F5FF&area=true&hide_border=true" width="100%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonuAnsari1998&bg_color=0d1117&color=00F5FF&line=FF5733&point=FFFFFF&area=true&area_color=FF5733&hide_border=true&title_color=FF5733&custom_title=🔥%20Sonu%20Ansari's%20Contribution%20Graph)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonuAnsari1998&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SonuAnsari1998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=FF5733&icon_color=00F5FF&text_color=FFFFFF&bg_color=0d1117" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuAnsari1998&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuAnsari1998&theme=tokyonight&hide_border=true&background=0d1117&ring=FF5733&fire=FF5733&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=FFFFFF" height="170"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuAnsari1998&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuAnsari1998&layout=compact&hide_border=true&title_color=FF5733&text_color=FFFFFF&bg_color=0d1117&langs_count=8" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=SonuAnsari1998&theme=radical&no-frame=true&column=3&margin-w=8" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SonuAnsari1998&theme=tokyonight&no-frame=true&column=3&margin-w=8&title_color=FF5733" height="150"/>
 </div>
 
 ---
@@ -138,7 +138,6 @@ Experienced in designing and developing **secure, scalable, and high-performance
 <div align="center">
   <img src="https://raw.githubusercontent.com/SonuAnsari1998/github-snake-animation/output/github-snake.svg" alt="GitHub Snake Animation"/>
 </div>
-
 
 ---
 
