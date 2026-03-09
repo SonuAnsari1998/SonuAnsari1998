@@ -100,45 +100,420 @@ Experienced in designing and developing **secure, scalable, and high-performance
 
 
 
----
 
-## 📈 GitHub Performance
 
-<div align="center">
 
-<!-- Activity Graph with better styling -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuAnsari1998&bg_color=0d1117&color=FF5733&line=1DA1F2&point=FFFFFF&area=true&area_color=1DA1F2&hide_border=true" width="100%"/>
 
-</div>
 
-<br/>
 
-<div align="center">
-
-<!-- Stats + Streak side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=SonuAnsari1998&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuAnsari1998&theme=radical&hide_border=true" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Top Languages card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuAnsari1998&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SonuAnsari1998/github-snake-animation/output/github-snake.svg" alt="GitHub Snake Animation" />
-</div>
 
 
 ---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>GitHub Performance</title>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;600&display=swap" rel="stylesheet"/>
+<style>
+  :root {
+    --neon-blue: #1DA1F2;
+    --neon-orange: #FF5733;
+    --neon-cyan: #00F5FF;
+    --dark-bg: #0d1117;
+    --card-bg: #0d1117;
+    --glow-blue: 0 0 20px rgba(29,161,242,0.5), 0 0 40px rgba(29,161,242,0.2);
+    --glow-orange: 0 0 20px rgba(255,87,51,0.5), 0 0 40px rgba(255,87,51,0.2);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--dark-bg);
+    font-family: 'Rajdhani', sans-serif;
+    color: #fff;
+    overflow-x: hidden;
+  }
+
+  /* ─── Scanline overlay ─── */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0,0,0,0.03) 2px,
+      rgba(0,0,0,0.03) 4px
+    );
+    pointer-events: none;
+    z-index: 999;
+  }
+
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+
+  /* ─── Section Header ─── */
+  .section-header {
+    text-align: center;
+    margin-bottom: 48px;
+    animation: fadeSlideDown 0.8s ease forwards;
+    opacity: 0;
+  }
+
+  .section-header h2 {
+    font-family: 'Orbitron', monospace;
+    font-size: clamp(1.4rem, 4vw, 2.2rem);
+    font-weight: 900;
+    letter-spacing: 0.15em;
+    background: linear-gradient(90deg, var(--neon-orange), var(--neon-blue), var(--neon-cyan));
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: shimmer 3s linear infinite, fadeSlideDown 0.8s ease forwards;
+  }
+
+  .header-line {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    margin-top: 12px;
+  }
+
+  .header-line span {
+    display: block;
+    height: 1px;
+    width: 120px;
+    background: linear-gradient(90deg, transparent, var(--neon-blue));
+  }
+
+  .header-line span:last-child {
+    background: linear-gradient(90deg, var(--neon-orange), transparent);
+  }
+
+  .header-dot {
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--neon-cyan);
+    box-shadow: 0 0 8px var(--neon-cyan);
+    animation: pulse 1.5s ease infinite;
+  }
+
+  /* ─── Activity Graph ─── */
+  .graph-card {
+    position: relative;
+    border-radius: 16px;
+    padding: 3px;
+    background: linear-gradient(135deg, var(--neon-orange), var(--neon-blue), var(--neon-cyan));
+    background-size: 300% 300%;
+    animation: borderFlow 4s ease infinite, fadeSlideUp 0.8s 0.2s ease forwards;
+    opacity: 0;
+    margin-bottom: 28px;
+  }
+
+  .graph-inner {
+    background: #080d13;
+    border-radius: 14px;
+    overflow: hidden;
+    padding: 16px;
+  }
+
+  .graph-card img {
+    width: 100%;
+    display: block;
+    border-radius: 8px;
+    filter: saturate(1.2) contrast(1.05);
+  }
+
+  /* ─── Stats Row ─── */
+  .stats-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+
+  .stat-card {
+    position: relative;
+    border-radius: 14px;
+    padding: 3px;
+    background: linear-gradient(135deg, var(--neon-blue), var(--neon-cyan));
+    background-size: 200% 200%;
+    animation: borderFlow 3s ease infinite;
+    opacity: 0;
+  }
+
+  .stat-card:nth-child(1) { animation: borderFlow 3s 0s ease infinite, fadeSlideUp 0.8s 0.4s ease forwards; }
+  .stat-card:nth-child(2) { animation: borderFlow 3s 1s ease infinite, fadeSlideUp 0.8s 0.55s ease forwards; }
+
+  .stat-inner {
+    background: #080d13;
+    border-radius: 12px;
+    overflow: hidden;
+    padding: 12px;
+    text-align: center;
+  }
+
+  .stat-card img {
+    width: 100%;
+    display: block;
+    border-radius: 6px;
+  }
+
+  /* ─── Bottom Row ─── */
+  .bottom-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 36px;
+  }
+
+  .lang-card {
+    position: relative;
+    border-radius: 14px;
+    padding: 3px;
+    background: linear-gradient(135deg, var(--neon-orange), #ff9f00);
+    background-size: 200% 200%;
+    animation: borderFlow 3.5s ease infinite, fadeSlideUp 0.8s 0.7s ease forwards;
+    opacity: 0;
+  }
+
+  .trophy-card {
+    position: relative;
+    border-radius: 14px;
+    padding: 3px;
+    background: linear-gradient(135deg, #ffd700, var(--neon-orange));
+    background-size: 200% 200%;
+    animation: borderFlow 3.5s 1s ease infinite, fadeSlideUp 0.8s 0.85s ease forwards;
+    opacity: 0;
+  }
+
+  .lang-card .stat-inner,
+  .trophy-card .stat-inner {
+    background: #080d13;
+    border-radius: 12px;
+    overflow: hidden;
+    padding: 12px;
+    text-align: center;
+  }
+
+  .lang-card img,
+  .trophy-card img {
+    width: 100%;
+    display: block;
+    border-radius: 6px;
+  }
+
+  /* ─── Metric Pills ─── */
+  .metric-pills {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-bottom: 36px;
+    animation: fadeSlideUp 0.8s 1s ease forwards;
+    opacity: 0;
+  }
+
+  .pill {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 18px;
+    border-radius: 50px;
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(29,161,242,0.3);
+    font-family: 'Orbitron', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    transition: all 0.3s ease;
+    cursor: default;
+  }
+
+  .pill:hover {
+    background: rgba(29,161,242,0.1);
+    border-color: var(--neon-blue);
+    box-shadow: var(--glow-blue);
+    transform: translateY(-2px);
+  }
+
+  .pill-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+  }
+
+  /* ─── Snake ─── */
+  .snake-wrapper {
+    text-align: center;
+    animation: fadeSlideUp 0.8s 1.1s ease forwards;
+    opacity: 0;
+  }
+
+  .snake-label {
+    font-family: 'Orbitron', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    color: rgba(255,255,255,0.3);
+    margin-bottom: 12px;
+  }
+
+  .snake-wrapper img {
+    max-width: 100%;
+    filter: hue-rotate(10deg) saturate(1.3) brightness(1.1);
+    border-radius: 8px;
+  }
+
+  /* ─── Divider ─── */
+  .divider {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin: 40px 0;
+    animation: fadeSlideUp 0.8s 0.95s ease forwards;
+    opacity: 0;
+  }
+
+  .divider-line {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(29,161,242,0.4), transparent);
+  }
+
+  .divider-icon {
+    font-size: 1.2rem;
+    animation: spin 6s linear infinite;
+  }
+
+  /* ─── Keyframes ─── */
+  @keyframes shimmer {
+    0% { background-position: 0% center; }
+    100% { background-position: 200% center; }
+  }
+
+  @keyframes borderFlow {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+  }
+
+  @keyframes fadeSlideDown {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes fadeSlideUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.4; transform: scale(0.7); }
+  }
+
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  @media (max-width: 600px) {
+    .stats-row, .bottom-row { grid-template-columns: 1fr; }
+    .metric-pills { gap: 10px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header -->
+  <div class="section-header">
+    <h2>📈 GitHub Performance</h2>
+    <div class="header-line">
+      <span></span>
+      <div class="header-dot"></div>
+      <span></span>
+    </div>
+  </div>
+
+  <!-- Activity Graph -->
+  <div class="graph-card">
+    <div class="graph-inner">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuAnsari1998&bg_color=080d13&color=FF5733&line=1DA1F2&point=00F5FF&area=true&area_color=1DA1F2&hide_border=true&radius=8" alt="Activity Graph"/>
+    </div>
+  </div>
+
+  <!-- Stats + Streak -->
+  <div class="stats-row">
+    <div class="stat-card">
+      <div class="stat-inner">
+        <img src="https://github-readme-stats.vercel.app/api?username=SonuAnsari1998&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=080d13" alt="GitHub Stats"/>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-inner">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuAnsari1998&theme=radical&hide_border=true&background=080d13" alt="GitHub Streak"/>
+      </div>
+    </div>
+  </div>
+
+  <!-- Languages + Trophies -->
+  <div class="bottom-row">
+    <div class="lang-card">
+      <div class="stat-inner">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuAnsari1998&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=080d13" alt="Top Languages"/>
+      </div>
+    </div>
+    <div class="trophy-card">
+      <div class="stat-inner">
+        <img src="https://github-profile-trophy.vercel.app/?username=SonuAnsari1998&theme=radical&no-frame=true&column=3&margin-w=8&margin-h=8" alt="Trophies"/>
+      </div>
+    </div>
+  </div>
+
+  <!-- Metric Pills -->
+  <div class="metric-pills">
+    <div class="pill"><div class="pill-dot" style="background:#FF5733;box-shadow:0 0 6px #FF5733"></div>COMMITS</div>
+    <div class="pill"><div class="pill-dot" style="background:#1DA1F2;box-shadow:0 0 6px #1DA1F2"></div>PULL REQUESTS</div>
+    <div class="pill"><div class="pill-dot" style="background:#00F5FF;box-shadow:0 0 6px #00F5FF"></div>ISSUES</div>
+    <div class="pill"><div class="pill-dot" style="background:#ffd700;box-shadow:0 0 6px #ffd700"></div>REVIEWS</div>
+  </div>
+
+  <!-- Divider -->
+  <div class="divider">
+    <div class="divider-line"></div>
+    <div class="divider-icon">⚙️</div>
+    <div class="divider-line"></div>
+  </div>
+
+  <!-- Snake -->
+  <div class="snake-wrapper">
+    <div class="snake-label">// CONTRIBUTION TRAIL</div>
+    <img src="https://raw.githubusercontent.com/SonuAnsari1998/github-snake-animation/output/github-snake.svg" alt="GitHub Snake Animation"/>
+  </div>
+
+</div>
+</body>
+</html>
+
+
+---
+
+
+
+
+
+
+
+
+
+
 
 
 
