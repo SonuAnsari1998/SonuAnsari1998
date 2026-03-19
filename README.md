@@ -194,11 +194,9 @@ Experienced in designing and developing **secure, scalable, and high-performance
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1400&color=FF6F61&center=true&vCenter=true&width=820&lines=Strong+problem+solving+skills+form+the+foundation+of+great+software+engineers" />
 </p>
----
 
 
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
