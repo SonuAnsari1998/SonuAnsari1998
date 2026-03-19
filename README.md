@@ -95,18 +95,9 @@ Experienced in designing and developing **secure, scalable, and high-performance
 </p>
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-
-
-
-
-
-
-
----
 ## 📈 GitHub Performance
 
 <div align="center">
