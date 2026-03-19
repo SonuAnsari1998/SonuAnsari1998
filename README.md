@@ -286,7 +286,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 - 🚀 Built multiple Spring Boot & Microservices applications  
 - 🌍 Open-Source Contributor  
 
----
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌐 Connect With Me
 
