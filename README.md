@@ -128,18 +128,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
   <img src="https://raw.githubusercontent.com/SonuAnsari1998/github-snake-animation/output/github-snake.svg" alt="GitHub Snake Animation"/>
 </div>
 
----
-
-
-
-
-
-
-
-
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
