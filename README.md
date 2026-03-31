@@ -300,7 +300,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
   </a>
 </p>
 
--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">⭐ Actively looking for Java Full Stack Developer opportunities ⭐</h3>
 <h4 align="center">Open to Work | Ready for Interviews</h4>
