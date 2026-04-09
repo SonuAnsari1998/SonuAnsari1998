@@ -119,7 +119,6 @@ Experienced in designing and developing **secure, scalable, and high-performance
   <img src="https://github-profile-trophy.vercel.app/?username=SonuAnsari1998&theme=tokyonight&no-frame=true&column=3&margin-w=8&title_color=FF5733" height="150"/>
 </div>
 
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SonuAnsari1998/github-snake-animation/output/github-snake.svg" alt="GitHub Snake Animation"/>
