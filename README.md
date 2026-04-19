@@ -1,4 +1,4 @@
-<!-- ====== ULTIMATE FINAL GITHUB README ======= -->
+o<!-- ====== ULTIMATE FINAL GITHUB README ======= -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Sonu+Ansari;Java+Full+Stack+Developer;Spring+Boot+%7C+ReactJS+%7C+Microservices;Building+Enterprise-Grade+Applications+🚀" />
@@ -11,7 +11,7 @@
 </p>
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 👨‍💻 Professional Summary
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
