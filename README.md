@@ -28,7 +28,7 @@ Experienced in designing and developing **secure, scalable, and high-performance
 - 💬 Tech Stack: **Java, Spring Boot, ReactJS, REST APIs, Oracle DB**
 - ⚡ Strength: Turning complex business logic into simple solutions
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧠 Technical Skills
 <p align="center">
