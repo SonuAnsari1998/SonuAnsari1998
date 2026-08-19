@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/github/stars/SonuAnsari1998?label=Stars&style=for-the-badge&color=FFD700"/>
 </p>
 
-
 -------------------------------------------------------------
 ## 👨‍💻 Professional Summary
 
